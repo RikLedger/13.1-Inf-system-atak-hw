@@ -27,7 +27,7 @@ ___
 
 ссылки https://vulners.com/ либо  https://www.exploit-db.com/ видно на фото 
 
-
+![1-1](./13.1-1-001.jpg)
 ![Снимок экрана от 2022-11-27 15-05-00](https://user-images.githubusercontent.com/94833070/204125569-c7ed545e-245a-4391-b8ac-1c99531c70f7.png)
 
 
