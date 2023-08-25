@@ -30,18 +30,21 @@ ___
 ![1-1](./13.1-1-001.jpg)
 ![Снимок экрана от 2022-11-27 15-05-00](https://user-images.githubusercontent.com/94833070/204125569-c7ed545e-245a-4391-b8ac-1c99531c70f7.png)
 
-
+![1-2](./13.1-1-002.jpg)
 ![Снимок экрана от 2022-11-27 15-05-09](https://user-images.githubusercontent.com/94833070/204125591-766de6a5-9d79-48b8-b248-791fed71214b.png)
 
-
+![1-3](./13.1-1-003.jpg)
 ![Снимок экрана от 2022-11-27 15-05-29](https://user-images.githubusercontent.com/94833070/204125605-fc2bbf75-a060-4ffb-99be-e2e8262b572a.png)
 
 и еще сканирование 
 
+![1-4](./13.1-1-004.jpg)
 ![Снимок экрана от 2022-11-27 14-28-01](https://user-images.githubusercontent.com/94833070/204125698-97b2ed6d-39dc-44a6-a18c-b2927a598ffe.png)
 
+![1-5](./13.1-1-005.jpg)
 ![Снимок экрана от 2022-11-27 13-50-03](https://user-images.githubusercontent.com/94833070/204125736-926ac07b-22c1-41b7-b9ce-e30f406d7086.png)
 
+![1-6](./13.1-1-006.jpg)
 ![Снимок экрана от 2022-11-27 13-53-06](https://user-images.githubusercontent.com/94833070/204125703-3953b84f-4581-4204-bafb-6f2ac7b41720.png)
 
 Список сетевых служб 
