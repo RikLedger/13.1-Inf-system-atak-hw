@@ -25,7 +25,11 @@ ___
 сканирую nmap на уязвимости ip Metasploitable 192.168.1.11
 
 
-ссылки https://vulners.com/ либо  https://www.exploit-db.com/ видно на фото 
+ссылки https://vulners.com/ 
+
+либо  https://www.exploit-db.com/ 
+
+видно на фото 
 
 ![1-1](./13.1-1-001.jpg)
 
@@ -46,6 +50,7 @@ ___
 ![1-7](./13.1-1-007.jpg)
 
 и ссылки 
+
 https://www.exploit-db.com/exploits/17491
 
 https://www.exploit-db.com/exploits/15449
